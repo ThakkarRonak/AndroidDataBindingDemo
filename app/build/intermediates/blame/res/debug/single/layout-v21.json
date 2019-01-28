@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/kiran/ronak/demo/DatabindingDemo/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/kiran/.android/build-cache/261fba3b2462fcc9063ebd0cc7e36c2c480d6018/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/kiran/ronak/demo/DatabindingDemo/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/home/kiran/.android/build-cache/261fba3b2462fcc9063ebd0cc7e36c2c480d6018/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/home/kiran/ronak/demo/DatabindingDemo/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/kiran/.android/build-cache/261fba3b2462fcc9063ebd0cc7e36c2c480d6018/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/kiran/ronak/demo/DatabindingDemo/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/kiran/.android/build-cache/261fba3b2462fcc9063ebd0cc7e36c2c480d6018/output/res/layout-v21/notification_action_tombstone.xml"
+    }
+]

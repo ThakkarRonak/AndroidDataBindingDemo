@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/kiran/ronak/demo/DatabindingDemo/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/home/kiran/.android/build-cache/261fba3b2462fcc9063ebd0cc7e36c2c480d6018/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/home/kiran/ronak/demo/DatabindingDemo/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/home/kiran/.android/build-cache/261fba3b2462fcc9063ebd0cc7e36c2c480d6018/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    }
+]
