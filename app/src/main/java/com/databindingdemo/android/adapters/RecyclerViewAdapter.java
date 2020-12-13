@@ -43,7 +43,6 @@ public class RecyclerViewAdapter extends RecyclerView.Adapter<RecyclerViewAdapte
     @Override
     public void onBindViewHolder(RecyclerViewAdapter.MyViewHolder holder, int position) {
         User obj = getObjForPosition(position);
-
         //bind object
         holder.bind(obj);
     }
@@ -51,7 +50,6 @@ public class RecyclerViewAdapter extends RecyclerView.Adapter<RecyclerViewAdapte
     protected User getObjForPosition(int position) {
         return mArrayListUser.get(position);
     }
-
 
     @Override
     public int getItemCount() {
